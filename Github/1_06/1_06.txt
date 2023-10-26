@@ -1,0 +1,7 @@
+Írjon C programot, amely kiszámítja a háromszög kerületét és területét oldalainak megadásával. 
+A háromszög oldalait (egész számok) vesszővel elválasztva olvassa be, majd   
+írassa ki a terület és a kerület értékét. A terület értékét 2 tizedesjegy 
+pontossággal adja meg. A számításokhoz használja a 
+Hérón képletet: t² = s(s-a)(s-b)(s-c), ahol a, b, c a háromszög oldalainak a 
+hossza és s a kerület fele.
+A négyzetgyökvonáshoz használja a math.h-ban deklarált double sqrt(double num) függvényt. 
