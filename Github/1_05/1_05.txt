@@ -1,0 +1,8 @@
+Írjon C programot, amely bekér egy műveletet (két (egész) szám és egy 
+műveleti jel) és a számítás elvégzése után kiírja a művelet eredményét. 
+Támogatott műveletek: összeadás, kivonás, szorzás, osztás, modulo. 
+Az osztás valós eredményét 2 tizedesjegy pontossággal adja meg!
+Példa input:
+5+2
+Példa output:
+7 

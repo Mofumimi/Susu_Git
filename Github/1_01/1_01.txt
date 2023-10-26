@@ -1,0 +1,1 @@
+Írjon C programot, ami bekéri egy téglalap két oldalát vesszővel elválasztva (egész típusú adatok), majd kiszámítja a kerületét és területét! Az eredményeket írassa ki! 
