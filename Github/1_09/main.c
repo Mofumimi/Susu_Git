@@ -5,7 +5,7 @@ int main(){
 
     double x, xy, yx;
 
-    printf("Adjon meg egy szamot: ");
+    printf("Adjon meg egy szamot ( ponttal elvalasztva. ): ");
     scanf("%lf", &x);
 
     xy = ceil(x);
