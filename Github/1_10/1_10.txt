@@ -1,0 +1,8 @@
+Írjon C programot, amely beolvas két egész számot 
+vesszővel elválasztva, és kiírja az osztás eredményét 
+az alábbi formában: "osztandó / osztó = hányados, 
+remainder: x". 
+Példa input:
+101, 2
+Példa output:
+101 / 2 = 50, remainder: 1 

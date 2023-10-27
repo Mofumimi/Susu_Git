@@ -1,0 +1,2 @@
+Írjon C programot, amely megállapítja egy beolvasott egész szám abszolút értékét. Az eredményt írassa ki! 
+Az abszolútérték számításhoz használja a math.h-ban deklarált double fabs(double num) függvényt.

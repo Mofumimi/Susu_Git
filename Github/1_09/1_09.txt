@@ -1,0 +1,6 @@
+Írjon C programot, amely beolvas egy valós (double típusú) 
+számot és visszaadja a hozzá legközelebb 
+eső kisebb ill. nagyobb egész számot. 
+A kerekítésekhez használja a math.h-ban deklarált 
+double ceil(double num) ; double floor(double num) 
+függvényeket.

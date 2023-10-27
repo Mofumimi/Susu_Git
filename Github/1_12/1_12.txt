@@ -1,0 +1,7 @@
+Írjon egy C programot, ami beolvas egy egész számot. 
+Számítsa ki, és írassa ki, hogy ez a szám hány év, 
+hány hét és hány napnak felel meg!
+Példa input:
+366
+Példa output:
+1 year(s) 0 week(s) 1 day(s)
