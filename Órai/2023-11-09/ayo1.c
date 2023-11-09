@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-double avgcalc(int jegyek[], int tantargySzam) {
+double avgcalc(int* jegyek, int tantargySzam) {
     int sum = 0;
 
     for (int i = 0; i < tantargySzam; i++) {
@@ -10,7 +10,7 @@ double avgcalc(int jegyek[], int tantargySzam) {
     return (double)sum / tantargySzam;
 }
 
-double sulyAtlag(int jegyek[], int kredit[], int tantargySzam) {
+double sulyAtlag(int* jegyek, int* kredit, int tantargySzam) {
     int sum = 0, kreditsum = 0;
 
     for (int i = 0; i < tantargySzam; i++) {
@@ -22,8 +22,8 @@ double sulyAtlag(int jegyek[], int kredit[], int tantargySzam) {
 }
 
 int main() {
-    int tantargy[] = {5, 3, 4, 2, 4, 2};
-    int jegyek[] = {5, 3, 4, 4, 2, 3};
+    int tantargy[] = {5, 3, 4, 2, 4};
+    int jegyek[] = {5, 3, 4, 4, 2};
 
     int tantargySzam = sizeof(tantargy) / sizeof(tantargy[0]);
 
