@@ -23,7 +23,7 @@ double sulyAtlag(int* jegyek, int* kredit, int tantargySzam) {
 
 int main() {
     int tantargy[] = {5, 3, 4, 2, 4};
-    int jegyek[] = {5, 3, 4, 4, 2};
+    int jegyek[] = {4, 3, 4, 4, 2};
 
     int tantargySzam = sizeof(tantargy) / sizeof(tantargy[0]);
 
