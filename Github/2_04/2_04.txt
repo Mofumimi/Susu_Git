@@ -1,0 +1,1 @@
+Írjon C programot, amely bekér 2 egész számot vesszővel elválasztva, majd írassa ki azt, amelyik a nagyobb. Ha a két szám egyenlő értékű, akkor írassa ki, hogy "The given numbers are equal". 

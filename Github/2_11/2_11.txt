@@ -1,0 +1,2 @@
+Írjon C programot, amely bekér 2 egész értéket vesszővel elválasztva (a,b), majd számítsa ki az a^b értékét és írja ki az eredményt. A számítást iteratív algoritmussal végezze el, ne használja a standard hatványozó (pow) függvényt! 
+Ellenőrizze, hogy mindkét szám nagyobb vagy egyenlő mint 0. Hibás input esetén (a vagy b <=0) a program írassa ki az „Invalid input!” kifejezést.

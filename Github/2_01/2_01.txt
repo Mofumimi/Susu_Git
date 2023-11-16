@@ -1,0 +1,1 @@
+Írjon C programot, amely kiszámítja két pozitív egész szám számtani közepét. A két számot vesszővel elválasztva olvassa be. A valós eredményt 2 tizedesjegy pontossággal írja ki.

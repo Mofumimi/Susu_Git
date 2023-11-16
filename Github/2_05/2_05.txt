@@ -1,0 +1,3 @@
+Az XYZ bolt akciót hírdetett, miszerint minden termék amit a webshopjukban vásárol a vevő, 5%-al kevesebbe kerül. A házhozszállítás díja 2000 Ft. A boltban, személyesen vásárolva az árak változatlanok. 
+Írjon C programot, amely beolvassa egy termék árát és kiértékeli, majd kiírja, hogy a terméket érdemesebb online rendelni("You should buy online"), vagy személyesen megvenni ("You should buy in person"). 
+Ha a két érték megegyezik, jelenítse meg a "The prices are equal" üzenetet!

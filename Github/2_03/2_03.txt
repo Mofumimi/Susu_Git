@@ -1,0 +1,5 @@
+Írjon C programot, amely bekér egy egész számot, és döntse el róla hogy páros vagy páratlan! Az eredményt írassa ki (odd / even)!
+Példa input páratlan számra: 5
+Példa output: odd
+Példa input páros számra: 44
+Példa output: even 

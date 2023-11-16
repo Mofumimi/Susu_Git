@@ -1,0 +1,6 @@
+Írjon C programot, amely beolvas egy pozitív egész számot, és eldönti, hogy az adott szám 3-nak többszöröse-e. Ha a szám 3-nak többszöröse, döntse el azt is, hogy 6-al is osztható-e! 
+Az eredmény(eke)t írassa ki!
+Példa input: 5
+Példa output: not divisible by 3
+Példa input: 24
+Példa output: divisible by 3, divisible by 6

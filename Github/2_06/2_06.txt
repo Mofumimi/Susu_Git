@@ -1,0 +1,4 @@
+Írjon C programot, ami beolvas egy egész számot, és ha a szám a 65 és 122 közti intervallumon található, kiírja a hozzá tartozó ASCII karaktert! 
+Ha a szám ezen intervallumon kívül esik, a program jelenítse meg a "This number is not a letter in ASCII" szöveget!
+Példa input: 67
+Példa output: C

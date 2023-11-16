@@ -1,0 +1,5 @@
+Írjon C programot, amely bekér egy egész számot, és kiírja, hogy a megadott szám prímszám-e. A megoldás során használja az eldöntés alapalgoritmust!
+Példa input prímszámra: 2017
+Példa output prímszámra: 2017 is prime
+Példa input nem prímszámra: 4605
+Példa output nem prímszámra: 4605 is not prime

@@ -1,0 +1,5 @@
+Írjon C programot, amely beolvas 2 db egész számot vesszővel elválasztva, majd segédváltozó felhasználásával cserélje fel az értéküket. A két számot írassa ki!
+Példa input:
+5, 6
+Példa output:
+6, 5 

@@ -1,0 +1,1 @@
+Írjon C programot egy beolvasott N egész érték faktoriálisának kiszámítására (ahol 0 <= N <= 10), és írassa ki az eredményt! Figyeljen arra, hogy 0! = 1. 
